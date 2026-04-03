@@ -1,11 +1,11 @@
 const PAGES=[
-  {id:'hub',label:'Agency hub',group:'gateway',role:'Gateway',roleColor:'#534AB7',url:'sf.gov/healthy-housing-vector-control',
+  {id:'hub',label:'Topic: Healthy housing and vector control',group:'topics',role:'Topic & Information',roleColor:'#0F6E56',url:'sf.gov/topics/healthy-housing-and-vector-control',
    render:()=>`
-    <div class="comp"><span class="comp-label lbl-c1">C1 — page purpose</span>
+    <div class="comp"><span class="comp-label lbl-c1">C1 — page title</span>
       <div class="mock-h1">Healthy housing and vector control</div>
-      <div class="mock-purpose">The Healthy Housing and Vector Control program responds to health and sanitation conditions in residential buildings across San Francisco — including pests, rodents, mosquitoes, mold, and related housing concerns.</div>
+      <div class="mock-purpose">Information about housing health problems in San Francisco, pest and vector control, and how to report concerns.</div>
     </div>
-    <div class="comp"><span class="comp-label lbl-c2">C2 — links to service pages</span>
+    <div class="comp"><span class="comp-label lbl-c2">C2 — services</span>
       <div class="mock-card-grid">
         ${taskCard('topic','I have a pest or sanitation problem','Learn what to do and how to report it','Read guidance →')}
         ${taskCard('violationnotice','I received a notice of violation','Understand what is required and how to respond','Review next steps →')}
@@ -15,30 +15,20 @@ const PAGES=[
       ${taskCard('deadbird','Report a dead bird','Report dead birds to help track West Nile Virus in California','Open reporting page →')}
       ${taskCard('complaintsdata','View complaint data dashboard','See complaint volume, complaint types, and response trends','Open dashboard →')}
     </div>
-    <div class="comp"><span class="comp-label lbl-c3">C3 — contact section</span>
-      <div class="mock-card">
-        <div class="mock-section-head">Contact section</div>
-        <div class="mock-list" style="padding-left:0;list-style:none">
-          <div><strong>Address:</strong> 49 South Van Ness Avenue, Suite 600, San Francisco, CA 94103</div>
-          <div><strong>Phone:</strong> (415) 252-3800</div>
-          <div><strong>Email:</strong> hhvc@sfdph.org</div>
-        </div>
-      </div>
-    </div>
     <div class="comp"><span class="comp-label lbl-c7">C7 — spotlight: seasonal prevention</span>
       <div class="mock-card" style="background:#EAF3DE">
         ${mediaCard('Seasonal spotlight','Check homes and shared areas for standing water this week to reduce mosquito breeding.','Spotlight image placeholder')}
         <div class="mock-cta" style="background:#EAF3DE;margin-top:6px"><span class="mock-cta-text" style="color:#23480b">Prevent mosquitoes this week</span>${ctaLink('mosquitoes','See prevention checklist','background:#3B6D11')}</div>
       </div>
     </div>
-    <div class="comp"><span class="comp-label lbl-c4">C4 — body text: what this program does</span>
-      <div class="mock-card">We inspect and respond to complaints involving pests, rodents, mosquitoes, mold, and sanitation issues in multi-unit housing. We also provide prevention guidance and enforce health code requirements when needed.</div>
+    <div class="comp"><span class="comp-label lbl-c4">C4 — body text: about this topic</span>
+      <div class="mock-card">The City responds to complaints involving pests, rodents, mosquitoes, mold, and sanitation issues in multi-unit housing. Learn about common housing conditions, prevention guidance, and requirements when violations are found.</div>
     </div>
-    <div class="comp"><span class="comp-label lbl-c5">C5 — related services</span>
+    <div class="comp"><span class="comp-label lbl-c5">C5 — related topics and resources</span>
       <div class="mock-related">
-        <a class="mock-rel-link" href="https://sf311.org" target="_blank" rel="noopener noreferrer">311 - General requests</a>
-        <a class="mock-rel-link" href="https://sf.gov/departments/department-building-inspection" target="_blank" rel="noopener noreferrer">Department of Building Inspection</a>
+        <a class="mock-rel-link" href="https://sf.gov/departments/department-building-inspection" target="_blank" rel="noopener noreferrer">Building Inspection</a>
         <a class="mock-rel-link" href="https://sf.gov/departments/department-public-health" target="_blank" rel="noopener noreferrer">Department of Public Health</a>
+        <a class="mock-rel-link" href="https://sf311.org" target="_blank" rel="noopener noreferrer">311 - General requests</a>
       </div>
     </div>`},
 
@@ -297,7 +287,7 @@ const PAGES=[
    render:()=>`
     <div class="comp"><span class="comp-label lbl-c1">C1 — page purpose</span>
       <div class="mock-h1">Vector Control and Healthy Housing fee</div>
-      <div class="mock-purpose">Property owners of apartment buildings and hotels in San Francisco are required to pay an annual fee to fund the Vector Control and Healthy Housing Inspection Program.</div>
+      <div class="mock-purpose">Apartment and hotel owners in San Francisco must pay an annual fee. This fee supports the Vector Control and Healthy Housing Inspection Program.</div>
     </div>
     <div class="comp"><span class="comp-label lbl-c2">C2 — cost</span>
       <div class="mock-cost">
@@ -316,8 +306,14 @@ const PAGES=[
       <div class="mock-notice"><div class="notice-text">If you do not pay the fee, HHVC may take enforcement action. See Health Code Sec. 609.</div></div>
     </div>
     <div class="comp"><span class="comp-label lbl-c10">C10 — FAQ</span>
-      <div class="mock-accordion mock-faq"><div class="mock-acc-head">Who is required to pay? <span>+</span></div></div>
-      <div class="mock-accordion mock-faq"><div class="mock-acc-head">What if I believe I was billed incorrectly? <span>+</span></div></div>
+      <div class="mock-accordion mock-faq">
+        <div class="mock-acc-head">Who is required to pay? <span>+</span></div>
+        <div class="mock-acc-body"><p>Property owners of multi-unit residential buildings must pay the annual inspection program fee. The fee is based on the number of units at the property.</p></div>
+      </div>
+      <div class="mock-accordion mock-faq">
+        <div class="mock-acc-head">What if I believe I was billed incorrectly? <span>+</span></div>
+        <div class="mock-acc-body"><p>Contact HHVC to dispute your billing. Call (415) 252-3800 or email hhvc@sfdph.org with your property address and details about the discrepancy. We'll review your account.</p></div>
+      </div>
     </div>`},
 
   {id:'mqsurvey',label:'Request mosquito survey',group:'field',role:'Field service',roleColor:'#993556',url:'sf.gov/request-mosquito-survey',
@@ -553,8 +549,8 @@ function pestPage(title,code,signs,actions,tenantItems,ownerItems){
       <div class="mock-card"><div class="mock-section-head">How long-term prevention works</div><div class="mock-task-desc">Sustained prevention combines resident behavior, owner maintenance, and follow-up checks over time.</div></div>
     </div>
     <div class="comp"><span class="comp-label lbl-c10">C10 — FAQ</span>
-      <div class="mock-card" style="margin-bottom:4px"><div class="mock-task-title">Who is responsible for fixing this?</div><div class="mock-task-desc">Responsibility depends on the condition and lease context, but owners must maintain habitable conditions and address violations.</div></div>
-      <div class="mock-card"><div class="mock-task-title">Why does the problem keep coming back?</div><div class="mock-task-desc">Recurring activity usually means root causes remain, such as entry points, moisture, food sources, or delayed treatment.</div></div>
+      <div class="mock-card" style="margin-bottom:4px"><div class="mock-task-title">Who is responsible for fixing this?</div><div class="mock-task-desc">Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.</div></div>
+      <div class="mock-card"><div class="mock-task-title">Why does the problem keep coming back?</div><div class="mock-task-desc">Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.</div></div>
     </div>
     <div class="comp"><span class="comp-label lbl-c11">C11 — related links</span>
       <div class="mock-related">${pageLink('report','Report a concern')}${pageLink('resources','Resources')}${pageLink('topic','Healthy housing conditions')}</div>
