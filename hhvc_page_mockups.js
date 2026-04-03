@@ -239,14 +239,9 @@ const PAGES=[
     <div class="comp"><span class="comp-label lbl-c8">C8 — image: before you submit</span>
       ${mediaCard('Before you submit','Checklist: address, photos, dates, and who you contacted.','Checklist example')}
     </div>
-    <div class="comp"><span class="comp-label lbl-c3">C3 — request form</span>
-      <div class="mock-card">
-        <div class="form-grid"><div><label class="mock-form-label">Your name</label><input class="mock-input" placeholder="Full name"></div><div><label class="mock-form-label">Contact email</label><input class="mock-input" placeholder="email@example.com"></div></div>
-        <label class="mock-form-label">Property address</label><input class="mock-input" placeholder="Street address, San Francisco">
-        <label class="mock-form-label">Type of concern</label><select class="mock-select"><option>Select a concern type</option><option>Rodents</option><option>Cockroaches</option><option>Bed bugs</option><option>Mosquitoes</option><option>Garbage / sanitation</option><option>Mold</option><option>Other</option></select>
-        <label class="mock-form-label">Describe the problem</label><textarea class="mock-textarea" placeholder="What have you observed? When did it start?"></textarea>
-        <label class="mock-form-label">Have you reported this to the property owner?</label><select class="mock-select"><option>Yes — they have not corrected it</option><option>Yes — they denied the problem</option><option>No — I was unable to reach them</option></select>
-        <button class="mock-submit">Submit complaint</button>
+    <div class="comp"><span class="comp-label lbl-c5">C5 — primary CTA (button to form service)</span>
+      <div class="mock-card" style="text-align:center">
+        <button class="mock-submit" style="background:#185FA5;width:auto;padding:10px 20px">Go to the reporting form</button>
       </div>
     </div>
     <div class="comp"><span class="comp-label lbl-c6">C6 — what happens next</span>
@@ -266,11 +261,9 @@ const PAGES=[
       <div class="mock-h1">Search complaints and violations</div>
       <div class="mock-purpose">Look up complaint and inspection records for a residential property in San Francisco.</div>
     </div>
-    <div class="comp"><span class="comp-label lbl-c3">C3 — search form</span>
-      <div class="mock-card">
-        <label class="mock-form-label">Property address</label>
-        <input class="mock-input" placeholder="Enter a San Francisco address">
-        <button class="mock-submit" style="background:#854F0B">Search records</button>
+    <div class="comp"><span class="comp-label lbl-c5">C5 — primary CTA (button to search tool)</span>
+      <div class="mock-card" style="text-align:center">
+        <button class="mock-submit" style="background:#854F0B;width:auto;padding:10px 20px">Open the complaint search tool</button>
       </div>
     </div>
     <div class="comp"><span class="comp-label lbl-c8">C8 — image: address format example</span>
@@ -331,13 +324,9 @@ const PAGES=[
     <div class="comp"><span class="comp-label lbl-c7">C7 — key message</span>
       <div class="mock-notice"><div class="notice-text">If mosquitoes are still a problem after you remove standing water, request a mosquito survey. Start by emptying containers, saucers, and gutters.</div></div>
     </div>
-    <div class="comp"><span class="comp-label lbl-c3">C3 — request form</span>
-      <div class="mock-card">
-        <div class="form-grid"><div><label class="mock-form-label">Your name</label><input class="mock-input" placeholder="Full name"></div><div><label class="mock-form-label">Contact email or phone</label><input class="mock-input" placeholder="Contact details"></div></div>
-        <label class="mock-form-label">Property address (must be in San Francisco)</label><input class="mock-input" placeholder="Street address">
-        <label class="mock-form-label">Describe the problem</label><textarea class="mock-textarea" placeholder="What have you observed? How long has this been occurring?"></textarea>
-        <label class="mock-form-label">Steps already taken</label><textarea class="mock-textarea" placeholder="What have you done to eliminate standing water?"></textarea>
-        <button class="mock-submit" style="background:#993556">Submit request</button>
+    <div class="comp"><span class="comp-label lbl-c5">C5 — primary CTA (button to form service)</span>
+      <div class="mock-card" style="text-align:center">
+        <button class="mock-submit" style="background:#993556;width:auto;padding:10px 20px">Open the mosquito survey request form</button>
       </div>
     </div>
     <div class="comp"><span class="comp-label lbl-c6">C6 — what happens next</span>
@@ -419,17 +408,9 @@ const PAGES=[
         <div class="mock-ngss-row"><span class="mock-ngss-grade">Grades 9–12</span><span class="mock-ngss-std">HS-LS2-2, HS-ESS3-4</span><span class="mock-ngss-topic">Population dynamics · solution design</span></div>
       </div>
     </div>
-    <div class="comp"><span class="comp-label lbl-c3">C3 — request form</span>
-      <div class="mock-card">
-        <div class="form-grid"><div><label class="mock-form-label">Your name</label><input class="mock-input" placeholder="Full name"></div><div><label class="mock-form-label">Your role</label><select class="mock-select"><option>Teacher</option><option>School admin</option><option>Science center staff</option><option>Event organizer</option></select></div></div>
-        <label class="mock-form-label">School or organization name</label><input class="mock-input" placeholder="Name">
-        <label class="mock-form-label">Address (must be in San Francisco)</label><input class="mock-input" placeholder="Street address">
-        <div class="form-grid"><div><label class="mock-form-label">Grade level</label><select class="mock-select"><option>Select grade</option><option>2nd</option><option>3rd–5th</option><option>6th–8th</option><option>9th–12th</option><option>Mixed</option></select></div><div><label class="mock-form-label">Number of students</label><input class="mock-input" placeholder="Estimated count"></div></div>
-        <label class="mock-form-label">Current science unit (optional — helps us tailor the visit)</label><input class="mock-input" placeholder="e.g. ecosystems, life cycles">
-        <div class="form-grid"><div><label class="mock-form-label">Preferred date(s)</label><input class="mock-input" placeholder="2–3 options preferred"></div><div><label class="mock-form-label">Preferred time</label><input class="mock-input" placeholder="e.g. 9–11am"></div></div>
-        <label class="mock-form-label">Accessibility or language needs (optional)</label><input class="mock-input" placeholder="e.g. Spanish, accessible entrance">
-        <label class="mock-form-label">Contact email</label><input class="mock-input" placeholder="email@school.edu">
-        <button class="mock-submit" style="background:#3B6D11">Submit request</button>
+    <div class="comp"><span class="comp-label lbl-c5">C5 — primary CTA (button to form service)</span>
+      <div class="mock-card" style="text-align:center">
+        <button class="mock-submit" style="background:#3B6D11;width:auto;padding:10px 20px">Open the education visit request form</button>
       </div>
     </div>
     <div class="comp"><span class="comp-label lbl-c6">C6 — what happens next</span>
@@ -498,7 +479,7 @@ const PAGES=[
       <div class="mock-h1">Resources</div>
       <div class="mock-purpose">Preparation guides, prevention handouts, and reference materials for residents, property owners, and educators.</div>
     </div>
-    <div class="comp"><span class="comp-label lbl-c2">C2 — grouped resource sections</span>
+    <div class="comp"><span class="comp-label lbl-c12">C12 — PDFs and other documents</span>
       <div class="mock-section-head" style="margin-bottom:8px">Preparation checklists</div>
       ${[
         ['Bed bug treatment preparation checklist','Steps to prepare sleeping areas and protect belongings.'],
@@ -1029,11 +1010,11 @@ function mediaCard(title, description, thumb='Image example'){
 }
 
 function mediaVideo(title, length='60-90 sec', note='Includes captions and transcript'){
-  return `<div class="mock-video-card"><div class="mock-video-player">Video preview: ${title}</div><div class="mock-video-meta"><span>Length: ${length}</span><span>${note}</span></div></div>`;
+  return `<div class="mock-video-card"><div class="mock-video-player">Video preview: ${title}</div><div class="mock-video-meta"><span>Length: ${length}</span><span>${note}</span></div><div style="font-size:11px;margin-top:6px;color:#185FA5;text-decoration:underline;cursor:pointer">View video transcript</div></div>`;
 }
 
 function mediaDiagram(stepOne, stepTwo, stepThree){
-  return `<div class="mock-diagram"><div class="mock-diagram-row"><div class="mock-diagram-step">${stepOne}</div><div class="mock-diagram-arrow">→</div><div class="mock-diagram-step">${stepTwo}</div><div class="mock-diagram-arrow">→</div><div class="mock-diagram-step">${stepThree}</div></div></div>`;
+  return `<div class="mock-diagram"><div class="mock-diagram-row"><div class="mock-diagram-step">${stepOne}</div><div class="mock-diagram-arrow">→</div><div class="mock-diagram-step">${stepTwo}</div><div class="mock-diagram-arrow">→</div><div class="mock-diagram-step">${stepThree}</div></div><div style="font-size:10px;color:#5f5e5a;margin-top:8px;padding-top:8px;border-top:1px solid #e5e5e5"><strong>Text alternative for screen readers:</strong> 1. ${stepOne} 2. ${stepTwo} 3. ${stepThree}</div></div>`;
 }
 
 function renderComponentTypeLink(type,href){

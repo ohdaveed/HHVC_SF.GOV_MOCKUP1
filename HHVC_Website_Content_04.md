@@ -118,13 +118,8 @@ Report to your property owner first. If the problem is not corrected, use this f
 ### Before You Submit
 Before you submit, gather your address, photos, dates, and owner contact attempts.
 
-### Form Fields
-- Your name
-- Contact email
-- Property address
-- Type of concern (Rodents, Cockroaches, Bed bugs, Mosquitoes, Garbage / sanitation, Mold, Other)
-- Describe the problem
-- Have you reported this to the property owner? (Yes — they have not corrected it, Yes — they denied the problem, No — I was unable to reach them)
+### Primary CTA
+- Go to the reporting form
 
 ### What Happens Next
 1. Complaint reviewed — SFDPH reviews your complaint and decides if an inspection is needed.
@@ -149,8 +144,8 @@ Search complaints and violations
 ### Subtitle
 Look up complaint and inspection records for a residential property in San Francisco.
 
-### Search Form
-- Property address (search field)
+### Primary CTA
+- Open the complaint search tool
 
 ### Results Area
 Search results will appear here

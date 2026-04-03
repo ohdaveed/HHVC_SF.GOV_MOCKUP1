@@ -887,13 +887,8 @@ Report to your property owner first. If the problem is not corrected, use this f
 ### Before You Submit
 Before you submit, gather your address, photos, dates, and owner contact attempts.
 
-### Form Fields
-- Your name
-- Contact email
-- Property address
-- Type of concern (Rodents, Cockroaches, Bed bugs, Mosquitoes, Garbage / sanitation, Mold, Other)
-- Describe the problem
-- Have you reported this to the property owner? (Yes — they have not corrected it, Yes — they denied the problem, No — I was unable to reach them)
+### Primary CTA
+- Go to the reporting form
 
 ### What Happens Next
 1. Complaint reviewed — SFDPH reviews your complaint and decides if an inspection is needed.
@@ -916,8 +911,8 @@ Search complaints and violations
 ### Subtitle
 Look up complaint and inspection records for a residential property in San Francisco.
 
-### Search Form
-- Property address (search field)
+### Primary CTA
+- Open the complaint search tool
 
 ### Results Area
 Search results will appear here
@@ -988,12 +983,8 @@ If you have a mosquito problem that you cannot resolve by eliminating standing w
 ### Key Message
 If mosquitoes are still a problem after you remove standing water, request a mosquito survey. Start by emptying containers, saucers, and gutters.
 
-### Form Fields
-- Your name
-- Contact email or phone
-- Property address (must be in San Francisco)
-- Describe the problem
-- Steps already taken
+### Primary CTA
+- Open the mosquito survey request form
 
 ### What Happens Next
 1. Request reviewed — HHVC will contact you to schedule a visit.
@@ -1074,18 +1065,8 @@ HHVC offers free mosquito education visits for San Francisco schools and communi
 **Grades 6–8:** MS-LS2-1, MS-ESS3-3 (Populations · human impact)
 **Grades 9–12:** HS-LS2-2, HS-ESS3-4 (Population dynamics · solution design)
 
-### Form Fields
-- Your name
-- Your role (Teacher, School admin, Science center staff, Event organizer)
-- School or organization name
-- Address (must be in San Francisco)
-- Grade level
-- Number of students
-- Current science unit (optional)
-- Preferred date(s)
-- Preferred time
-- Accessibility or language needs (optional)
-- Contact email
+### Primary CTA
+- Open the education visit request form
 
 ### What Happens Next
 1. HHVC will contact you within [X] business days to confirm availability.
