@@ -11,7 +11,7 @@ Healthy housing and vector control
 Information about housing health problems in San Francisco, pest and vector control, and how to report concerns.
 
 ### Services
-- I have a pest or sanitation problem — Learn what to do and how to report it
+- I want to report an infestation — Learn what to do and how to report it
 - I received a notice of violation — Understand what is required and how to respond
 - I need to pay a fee — Pay the annual inspection program fee
 - Search complaints and violations — Look up inspection records for a property
@@ -66,7 +66,7 @@ Find information about common housing health problems in San Francisco, what to 
 
 ### Spotlight
 Need to report a building concern? Use the reporting form if your landlord or manager has not corrected a problem.
-Report a residential building concern — Report now
+Report a pest or sanitation problem — Report now
 
 ### Related Links
 - Report a concern
@@ -86,13 +86,13 @@ Notice of violation: what to do next
 Use this page if HHVC found health code violations at your property. It explains what to fix, what happens at reinspection, and what comes next if violations are not corrected.
 
 ### Key Message
-An HHVC inspector found one or more violations. Your Notice of Violation lists what was found, what must be fixed, and your deadline to comply.
+An inspector found health code violations. Your notice lists what must be fixed and when.
 
 ### Corrective Actions
 - Read each violation and deadline on your notice
 - Fix every listed condition by the deadline
-- Save proof of corrections, such as receipts, photos, and treatment reports
-- Provide access to affected units and common areas for follow-up inspection
+- Keep receipts, photos, and pest control reports to show what you fixed
+- Let the inspector inside to check the problem
 - For properties in the HHVC inspection fee program, the first reinspection is covered. Reinspection fees may apply starting with the second reinspection (Sec. 609.1(c)).
 
 ### Reinspection and Confirmation
@@ -103,8 +103,8 @@ An HHVC inspector found one or more violations. Your Notice of Violation lists w
 ### Spotlight
 Fix all listed violations before reinspection to help avoid added fees — Check case status
 
-### If the Owner Does Not Cooperate
-If required fixes are not completed, HHVC may take stronger steps, including city fines (administrative citations) and a Director's Hearing. Keep documenting unresolved conditions and continue reporting ongoing hazards.
+### If the Owner Does Not Fix the Problem
+If the owner does not fix the problem, we can fine them or hold a hearing. Keep taking notes and report the problem again if it continues.
 
 **Next Steps:**
 - Keep copies of your notice, photos, and communication records
@@ -132,7 +132,7 @@ Rodents
 Sec 581(b)(13)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Droppings near food storage or walls
@@ -149,33 +149,33 @@ Learn how to identify this condition, what to do now, and how to report it if it
 
 ### Responsibility
 **Tenant:**
-- Maintain sanitation and food storage
+- Keep the home clean and store food properly
 - Report activity immediately
-- Prepare unit for inspection or treatment
+- Get the home ready for inspection or pest control
 
 **Property Owner:**
 - Seal all openings larger than 1/4 inch
-- Provide professional pest control
+- Hire a professional pest control service
 - Repair structural defects and leaks
 
 ### What Happens Next
 HHVC may inspect the property. If HHVC finds violations, the owner or tenant must fix them.
 
 ### Why the Root Cause Matters
-Treating pests without fixing food, water, shelter, or access points usually means the problem returns.
+If you don't remove food, water, and hiding spots, pests will usually come back.
 
 ### Common Causes and Prevention
-Focus on sanitation, sealing openings, moisture control, and coordinated treatment when needed.
+Keep areas clean, seal holes, fix leaks, and use pest control when needed.
 
 ### How Long-Term Prevention Works
-Sustained prevention combines resident behavior, owner maintenance, and follow-up checks over time.
+To keep pests away, tenants must keep things clean and owners must fix holes and leaks.
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -194,7 +194,7 @@ Cockroaches
 Sec 581(b)(8)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Small dark droppings near stove or cabinets
@@ -210,7 +210,7 @@ Learn how to identify this condition, what to do now, and how to report it if it
 
 ### Responsibility
 **Tenant:**
-- Keep kitchen clean and grease-free
+- Keep the kitchen clean and wipe up grease
 - Store food properly
 - Report activity to owner by email, text, or letter
 
@@ -224,10 +224,10 @@ HHVC may inspect the property. If HHVC finds violations, the owner or tenant mus
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -273,7 +273,7 @@ Keep furniture, mattresses, and bedding in place until you report the problem. M
 
 **Property Owner:**
 - Arrange professional treatment
-- Coordinate building-wide inspection
+- Have the whole building checked
 - Provide prep instructions
 
 ### What Happens Next
@@ -282,7 +282,7 @@ If activity is confirmed, treatment and preparation steps will be required. The 
 ### How Bed Bugs Spread
 - They move with luggage, clothing, and furniture.
 - They can spread room to room through shared walls and items.
-- Containment matters before treatment starts.
+- Keep them in one place before pest control arrives.
 
 ### What Treatment Usually Includes
 - Inspection of sleeping areas and nearby furniture
@@ -316,7 +316,7 @@ Flies and sanitation
 Sec 581(b)(8)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Large numbers of flies indoors or near garbage
@@ -344,10 +344,10 @@ HHVC may inspect the property. If HHVC finds violations, the owner or tenant mus
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -424,7 +424,7 @@ Pigeons and bird waste
 Sec 581(b)(7)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Accumulated droppings on ledges or roofs
@@ -442,20 +442,20 @@ Learn how to identify this condition, what to do now, and how to report it if it
 
 **Property Owner:**
 - Remove droppings and nesting safely
-- Install lawful deterrence measures
+- Install safe bird deterrents like spikes or nets
 
 ### Key Message
-Do not sweep or disturb large accumulations of dry droppings without respiratory protection. Wet the area first or contact a professional.
+Do not sweep large piles of dry droppings. You could breathe in harmful dust. Wet the area first or hire a professional.
 
 ### What Happens Next
 HHVC may inspect the property. If HHVC finds violations, the owner or tenant must fix them.
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -475,7 +475,7 @@ Fleas
 Sec 581(b)(8)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Bites on ankles and lower legs
@@ -503,10 +503,10 @@ HHVC may inspect the property. If HHVC finds violations, the owner or tenant mus
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -526,7 +526,7 @@ Poison oak
 Sec 581(b)(11)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Identifiable toxic plants in yard or lot
@@ -544,17 +544,17 @@ Learn how to identify this condition, what to do now, and how to report it if it
 
 **Property Owner:**
 - Remove safely or hire licensed professional
-- Prevent regrowth in accessible areas
+- Keep the plant from growing back where people can reach it
 
 ### What Happens Next
 HHVC may inspect the property. If HHVC finds violations, the owner or tenant must fix them.
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -574,7 +574,7 @@ Garbage and refuse
 Sec 581(b)(1)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Accumulated trash or food waste
@@ -601,10 +601,10 @@ HHVC may inspect the property. If HHVC finds violations, the owner or tenant mus
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -624,7 +624,7 @@ Animal waste
 Sec 581(b)(1)(5)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Visible feces in yard or common areas
@@ -650,10 +650,10 @@ HHVC may inspect the property. If HHVC finds violations, the owner or tenant mus
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -673,7 +673,7 @@ Overgrown vegetation
 Sec 581(b)(2)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Dense vegetation against building foundation
@@ -693,17 +693,17 @@ Learn how to identify this condition, what to do now, and how to report it if it
 **Property Owner:**
 - Trim vegetation away from structure
 - Remove debris from ground level
-- Restore inspection access to all areas
+- Clear paths so inspectors can check the building
 
 ### What Happens Next
 HHVC may inspect the property. If HHVC finds violations, the owner or tenant must fix them.
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -723,7 +723,7 @@ Mold growth
 Sec 581(b)(6)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Visible mold on walls, ceilings, or surfaces
@@ -761,10 +761,10 @@ If mold is caused by a broken pipe or faulty roof, report that structural issue 
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -784,36 +784,36 @@ Excessive materials
 Sec 581(b)(18)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
-- Cluttered living areas blocking access
+- Too much clutter blocking paths
 - Items stored against all walls
 - Blocked pathways and exits
 
 ### What to Do Now
-- Remove excess stored materials
-- Elevate remaining items off the floor
+- Remove extra stored items
+- Move items off the floor
 - Clear access to walls and baseboards
 
 ### Responsibility
 **Tenant:**
-- Maintain unit in inspectable condition
+- Keep the home clean enough to be inspected
 - Reduce clutter to allow pest control access
 
 **Property Owner:**
 - Notify tenant by email, text, or letter
-- Allow reasonable time for correction
+- Give the tenant time to fix the problem
 
 ### What Happens Next
 HHVC may inspect the property. If HHVC finds violations, the owner or tenant must fix them.
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -833,36 +833,36 @@ Unsanitary conditions
 Sec 581(b)(4)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
-- Filth or debris accumulation
-- Contaminated surfaces
+- Piles of trash or dirt
+- Dirty surfaces
 - Strong odors from uncleaned areas
 
 ### What to Do Now
-- Clean affected areas thoroughly
-- Remove debris and contaminated materials
-- Report conditions the property owner must correct
+- Clean dirty areas completely
+- Remove trash and dirty items
+- Tell the owner about things they need to fix
 
 ### Responsibility
 **Tenant:**
 - Maintain unit in reasonably clean condition
-- Report structural sanitation failures
+- Report broken pipes or leaks that cause messes
 
 **Property Owner:**
-- Maintain building common areas in sanitary condition
-- Address structural conditions causing unsanitary buildup
+- Keep shared areas clean
+- Fix building problems that cause dirt or waste to build up
 
 ### What Happens Next
 HHVC may inspect the property. If HHVC finds violations, the owner or tenant must fix them.
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -871,15 +871,15 @@ A: Recurring activity often means root causes remain. These include entry points
 
 ---
 
-## Report a Residential Building Concern
+## Report a Pest or Sanitation Problem
 
 **URL:** sf.gov/report-residential-building-concern
 
 ### Title
-Report a residential building concern
+Report a pest or sanitation problem
 
 ### Subtitle
-Use this form to report a housing health or sanitation concern to SFDPH. Use this page if your landlord or property manager has not corrected a problem you have already reported to them.
+Report a health or sanitation problem to the City. Only use this form if you already told your landlord and they did not fix it.
 
 ### When to Use This Page
 Report to your property owner first. If the problem is not corrected, use this form to submit a complaint to the City.
@@ -893,7 +893,7 @@ Before you submit, gather your address, photos, dates, and owner contact attempt
 ### What Happens Next
 1. Complaint reviewed — SFDPH reviews your complaint and decides if an inspection is needed.
 2. Inspection scheduled — An inspector may contact you and visit the property.
-3. Violations documented — If violations are found, a notice is issued requiring correction.
+3. Violations recorded — If the inspector finds problems, they will give the owner a notice to fix them.
 
 ### Related Links
 - Search complaints
@@ -920,7 +920,7 @@ Search results will appear here
 ### Related Links
 - Report a concern
 - Complaint data dashboard
-- HHVC hub
+- Healthy housing and vector control
 
 ---
 
@@ -929,13 +929,16 @@ Search results will appear here
 **URL:** sf.gov/vector-control-healthy-housing-fee
 
 ### Title
-Vector Control and Healthy Housing fee
+Pay your Vector Control and Healthy Housing fee
 
 ### Subtitle
-Apartment and hotel owners in San Francisco must pay an annual fee. This fee supports the Vector Control and Healthy Housing Inspection Program.
+Owners of apartment and hotel properties in San Francisco must pay an annual fee. This fee supports the Vector Control and Healthy Housing Inspection Program.
+
+### Before You Pay
+Before you pay, have your property address, number of units, and billing information ready.
 
 ### Annual Cost Overview
-The fee varies by building size. Use this page to confirm the annual cost and how to complete payment.
+The fee depends on building size. Use this page to confirm your amount and pay online.
 
 | Building type | Number of units | Annual fee |
 |---|---|---|
@@ -952,14 +955,17 @@ The fee varies by building size. Use this page to confirm the annual cost and ho
 Pay your fee online — Pay now
 
 ### What Happens Next
-If you do not pay the fee, HHVC may take enforcement action. See Health Code Sec. 609.
+If you do not pay the fee, the City may add late fees or place a lien on your property.
+
+### Need Help
+Questions about your bill? Call (415) 252-3800 or email hhvc@sfdph.org.
 
 ### FAQ
 **Q: Who is required to pay?**
 A: Property owners of multi-unit residential buildings must pay the annual inspection program fee. The fee is based on the number of units at the property.
 
 **Q: What if I believe I was billed incorrectly?**
-A: Contact HHVC to dispute your billing. Call (415) 252-3800 or email hhvc@sfdph.org with your property address and details about the discrepancy. We'll review your account.
+A: Contact HHVC if you think your bill is wrong. Call (415) 252-3800 or email hhvc@sfdph.org with your property address and details about the issue.
 
 ---
 
@@ -971,14 +977,14 @@ A: Contact HHVC to dispute your billing. Call (415) 252-3800 or email hhvc@sfdph
 Request a mosquito survey
 
 ### Subtitle
-If you have a mosquito problem that you cannot resolve by eliminating standing water, the Healthy Housing and Vector Control program can send a team to assess and treat conditions at your property.
+If you still have mosquitoes after you remove standing water, we can send a team to check and treat your property.
 
 ### What a Survey Includes
-- Inspect your property for breeding sources
-- Conduct a vector survey to assess activity levels
-- Apply safe, targeted pesticide treatment where appropriate
-- Install mosquito traps to monitor ongoing activity
-- Provide guidance on preventing future breeding
+- Check your property for places where mosquitoes breed
+- Look for signs of mosquito activity
+- Use safe treatments to kill mosquitoes if needed
+- Set traps to catch and track mosquitoes
+- Show you how to keep mosquitoes from coming back
 
 ### Key Message
 If mosquitoes are still a problem after you remove standing water, request a mosquito survey. Start by emptying containers, saucers, and gutters.
@@ -988,8 +994,8 @@ If mosquitoes are still a problem after you remove standing water, request a mos
 
 ### What Happens Next
 1. Request reviewed — HHVC will contact you to schedule a visit.
-2. Field visit — A team member will assess your property and take appropriate action.
-3. Follow-up guidance — You will receive recommendations for ongoing prevention.
+2. Field visit — A team member will check your property and take action.
+3. Follow-up guidance — We will give you tips to keep mosquitoes away.
 
 ### Related Links
 - Mosquitoes and standing water
@@ -1005,7 +1011,7 @@ If mosquitoes are still a problem after you remove standing water, request a mos
 Report a dead bird
 
 ### Subtitle
-Dead birds — especially crows, ravens, and jays — can indicate West Nile Virus activity in your area. San Francisco residents can report dead birds to the California Department of Public Health year-round using the state's online system.
+Dead birds — especially crows, ravens, and jays — can be a sign of West Nile Virus. You can report dead birds to the state online any time of year.
 
 ### Key Message
 Use gloves or a plastic bag turned inside out if you need to move the bird. Wash your hands thoroughly afterward.
@@ -1027,11 +1033,11 @@ Prefer to call? West Nile Virus Call Center: 1-877-968-2473 (April–October)
 
 ### Do Not Report These
 - Injured or sick (still alive)
-- Obvious physical cause of death
-- Heavily decomposed birds
+- Clear signs of how it died (like being hit by a car)
+- Birds that have been dead for a long time
 
 ### What Happens Next
-CDPH reviews reports and coordinates local collection. Not all birds are collected. Reports help the state track West Nile Virus activity.
+The state reviews reports and decides if the bird should be picked up. Not all birds are collected. Your report helps the state track West Nile Virus.
 
 ### How to Protect Yourself from West Nile Virus
 Avoid mosquito bites with repellent, long sleeves, and by removing standing water around your home.
@@ -1050,13 +1056,13 @@ Avoid mosquito bites with repellent, long sleeves, and by removing standing wate
 Request a classroom or community visit
 
 ### Subtitle
-HHVC offers free mosquito education visits for San Francisco schools and community science centers. Visits are available for grades 2 through 12 and align with California NGSS.
+We offer free mosquito education visits for San Francisco schools and science centers. Visits are for grades 2 through 12 and match California science standards.
 
 ### Visit Description
 - Mosquito life cycle and breeding conditions
 - How to identify breeding sites in the neighborhood
 - Prevention steps for home and community
-- Connection to local vector control work
+- How the City controls pests
 
 **Available to:** any SF school (public, charter, private) · community science centers · community events · grades 2–12 · free of charge
 
@@ -1069,13 +1075,13 @@ HHVC offers free mosquito education visits for San Francisco schools and communi
 - Open the education visit request form
 
 ### What Happens Next
-1. HHVC will contact you within [X] business days to confirm availability.
+1. HHVC will contact you within a few business days to confirm availability.
 2. Visit confirmed — We will confirm date, time, and which NGSS standards your visit covers.
 3. Pre-visit materials sent if available.
 
 ### Related Links
 - Mosquitoes and standing water
-- HHVC hub
+- Healthy housing and vector control
 - CA NGSS standards
 
 ---
@@ -1088,15 +1094,15 @@ HHVC offers free mosquito education visits for San Francisco schools and communi
 Complaint data dashboard
 
 ### Subtitle
-View complaint volume, complaint types, and response trends for Healthy Housing and Vector Control cases in San Francisco.
+See the number of complaints, the types of problems, and how fast we respond to cases in San Francisco.
 
 ### Data Note
-Data is shown in aggregate to protect privacy. Individual complaint details are available through records search.
+We combine data to protect people's privacy. You can look up specific complaints using the records search.
 
 ### Related Links
 - Search complaints and violations
 - Resources
-- HHVC hub
+- Healthy housing and vector control
 
 ---
 
@@ -1108,7 +1114,7 @@ Data is shown in aggregate to protect privacy. Individual complaint details are 
 Resources
 
 ### Subtitle
-Preparation guides, prevention handouts, and reference materials for residents, property owners, and educators.
+Guides and handouts for residents, property owners, and teachers.
 
 ### Preparation Checklists
 - Bed bug treatment preparation checklist — Steps to prepare sleeping areas and protect belongings.
@@ -1118,13 +1124,17 @@ Preparation guides, prevention handouts, and reference materials for residents, 
 ### Prevention Guides
 - Rodent prevention — residents — Ways to reduce food, water, and shelter sources.
 - Mosquito prevention — standing water — How to remove common breeding sites around a building.
-- Pigeon exclusion — safe cleanup guide — Safe cleanup and deterrence basics for shared spaces.
+- Pigeon exclusion — safe cleanup guide — How to clean up waste and keep birds away from shared spaces.
 
 ### Educator Resources
-- NGSS standards alignment — mosquito education — Standards and lesson alignment for teachers and program staff.
+- NGSS standards alignment — mosquito education — Science standards and lesson plans for teachers and staff.
 
 ### Related Links
-- Request a classroom visit
+- Request a classroom or community visit
 - Healthy housing conditions
 - Complaint data dashboard
-- HHVC hub
+- Healthy housing and vector control
+
+
+
+

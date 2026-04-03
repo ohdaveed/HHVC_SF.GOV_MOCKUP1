@@ -8,14 +8,14 @@
 Request a mosquito survey
 
 ### Subtitle
-If you have a mosquito problem that you cannot resolve by eliminating standing water, the Healthy Housing and Vector Control program can send a team to assess and treat conditions at your property.
+If you still have mosquitoes after you remove standing water, we can send a team to check and treat your property.
 
 ### What a Survey Includes
-- Inspect your property for breeding sources
-- Conduct a vector survey to assess activity levels
-- Apply safe, targeted pesticide treatment where appropriate
-- Install mosquito traps to monitor ongoing activity
-- Provide guidance on preventing future breeding
+- Check your property for places where mosquitoes breed
+- Look for signs of mosquito activity
+- Use safe treatments to kill mosquitoes if needed
+- Set traps to catch and track mosquitoes
+- Show you how to keep mosquitoes from coming back
 
 ### Key Message
 If mosquitoes are still a problem after you remove standing water, request a mosquito survey. Start by emptying containers, saucers, and gutters.
@@ -25,14 +25,12 @@ If mosquitoes are still a problem after you remove standing water, request a mos
 
 ### What Happens Next
 1. Request reviewed — HHVC will contact you to schedule a visit.
-2. Field visit — A team member will assess your property and take appropriate action.
-3. Follow-up guidance — You will receive recommendations for ongoing prevention.
+2. Field visit — A team member will check your property and take action.
+3. Follow-up guidance — We will give you tips to keep mosquitoes away.
 
 ### Related Links
 - Mosquitoes and standing water
 - Report a concern
-
----
 
 ---
 
@@ -44,7 +42,7 @@ If mosquitoes are still a problem after you remove standing water, request a mos
 Report a dead bird
 
 ### Subtitle
-Dead birds — especially crows, ravens, and jays — can indicate West Nile Virus activity in your area. San Francisco residents can report dead birds to the California Department of Public Health year-round using the state's online system.
+Dead birds — especially crows, ravens, and jays — can be a sign of West Nile Virus. You can report dead birds to the state online any time of year.
 
 ### Key Message
 Use gloves or a plastic bag turned inside out if you need to move the bird. Wash your hands thoroughly afterward.
@@ -66,11 +64,11 @@ Prefer to call? West Nile Virus Call Center: 1-877-968-2473 (April–October)
 
 ### Do Not Report These
 - Injured or sick (still alive)
-- Obvious physical cause of death
-- Heavily decomposed birds
+- Clear signs of how it died (like being hit by a car)
+- Birds that have been dead for a long time
 
 ### What Happens Next
-CDPH reviews reports and coordinates local collection. Not all birds are collected. Reports help the state track West Nile Virus activity.
+The state reviews reports and decides if the bird should be picked up. Not all birds are collected. Your report helps the state track West Nile Virus.
 
 ### How to Protect Yourself from West Nile Virus
 Avoid mosquito bites with repellent, long sleeves, and by removing standing water around your home.
@@ -78,8 +76,6 @@ Avoid mosquito bites with repellent, long sleeves, and by removing standing wate
 ### Related Links
 - Mosquitoes and standing water
 - Request a mosquito survey
-
----
 
 ---
 
@@ -91,13 +87,13 @@ Avoid mosquito bites with repellent, long sleeves, and by removing standing wate
 Request a classroom or community visit
 
 ### Subtitle
-HHVC offers free mosquito education visits for San Francisco schools and community science centers. Visits are available for grades 2 through 12 and align with California NGSS.
+We offer free mosquito education visits for San Francisco schools and science centers. Visits are for grades 2 through 12 and match California science standards.
 
 ### Visit Description
 - Mosquito life cycle and breeding conditions
 - How to identify breeding sites in the neighborhood
 - Prevention steps for home and community
-- Connection to local vector control work
+- How the City controls pests
 
 **Available to:** any SF school (public, charter, private) · community science centers · community events · grades 2–12 · free of charge
 
@@ -110,16 +106,14 @@ HHVC offers free mosquito education visits for San Francisco schools and communi
 - Open the education visit request form
 
 ### What Happens Next
-1. HHVC will contact you within [X] business days to confirm availability.
+1. HHVC will contact you within a few business days to confirm availability.
 2. Visit confirmed — We will confirm date, time, and which NGSS standards your visit covers.
 3. Pre-visit materials sent if available.
 
 ### Related Links
 - Mosquitoes and standing water
-- HHVC hub
+- Healthy housing and vector control
 - CA NGSS standards
-
----
 
 ---
 
@@ -131,17 +125,15 @@ HHVC offers free mosquito education visits for San Francisco schools and communi
 Complaint data dashboard
 
 ### Subtitle
-View complaint volume, complaint types, and response trends for Healthy Housing and Vector Control cases in San Francisco.
+See the number of complaints, the types of problems, and how fast we respond to cases in San Francisco.
 
 ### Data Note
-Data is shown in aggregate to protect privacy. Individual complaint details are available through records search.
+We combine data to protect people's privacy. You can look up specific complaints using the records search.
 
 ### Related Links
 - Search complaints and violations
 - Resources
-- HHVC hub
-
----
+- Healthy housing and vector control
 
 ---
 
@@ -153,7 +145,7 @@ Data is shown in aggregate to protect privacy. Individual complaint details are 
 Resources
 
 ### Subtitle
-Preparation guides, prevention handouts, and reference materials for residents, property owners, and educators.
+Guides and handouts for residents, property owners, and teachers.
 
 ### Preparation Checklists
 - Bed bug treatment preparation checklist — Steps to prepare sleeping areas and protect belongings.
@@ -163,13 +155,16 @@ Preparation guides, prevention handouts, and reference materials for residents, 
 ### Prevention Guides
 - Rodent prevention — residents — Ways to reduce food, water, and shelter sources.
 - Mosquito prevention — standing water — How to remove common breeding sites around a building.
-- Pigeon exclusion — safe cleanup guide — Safe cleanup and deterrence basics for shared spaces.
+- Pigeon exclusion — safe cleanup guide — How to clean up waste and keep birds away from shared spaces.
 
 ### Educator Resources
-- NGSS standards alignment — mosquito education — Standards and lesson alignment for teachers and program staff.
+- NGSS standards alignment — mosquito education — Science standards and lesson plans for teachers and staff.
 
 ### Related Links
-- Request a classroom visit
+- Request a classroom or community visit
 - Healthy housing conditions
 - Complaint data dashboard
-- HHVC hub
+- Healthy housing and vector control
+
+
+

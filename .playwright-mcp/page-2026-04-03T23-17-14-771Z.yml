@@ -1,0 +1,218 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: HHVC SF.gov — Page Mockups & Component System
+      - generic [ref=e6]: 22 pages · Version 2
+    - generic "Primary pages" [ref=e7]:
+      - link "HHVC topic" [ref=e8] [cursor=pointer]:
+        - /url: "#hub"
+      - link "Housing conditions" [ref=e9] [cursor=pointer]:
+        - /url: "#topic"
+      - link "Report a concern" [ref=e10] [cursor=pointer]:
+        - /url: "#report"
+      - link "Search records" [ref=e11] [cursor=pointer]:
+        - /url: "#search"
+      - link "Pay fee" [ref=e12] [cursor=pointer]:
+        - /url: "#pay"
+      - link "Report a dead bird" [ref=e13] [cursor=pointer]:
+        - /url: "#deadbird"
+  - generic [ref=e15]:
+    - generic [ref=e16]: Topic landing
+    - generic [ref=e18]: Topic and Information
+    - generic [ref=e20]: Transaction
+    - generic [ref=e22]: Transaction, Data story, and Resource collection
+    - generic [ref=e24]: Transaction
+    - generic [ref=e26]: Transaction
+    - generic [ref=e28]: Transaction
+    - generic [ref=e30]:
+      - generic [ref=e31]: Component types
+      - combobox "Component type reference" [ref=e32]:
+        - option "Reference only" [selected]
+        - option "Accordions"
+        - option "Address"
+        - option "Alert"
+        - option "Body, Main body, Text and title"
+        - option "Button"
+        - option "Callout"
+        - option "Contact section"
+        - option "Cost"
+        - option "Data"
+        - option "Description"
+        - option "Heading"
+        - option "Images"
+        - option "Links"
+        - option "Partner agency"
+        - option "PDFs and other documents"
+        - option "People section"
+        - option "Primary agency"
+        - option "Redirect this page to"
+        - option "Related"
+        - option "Resources"
+        - option "Spotlight"
+        - option "Tables"
+        - option "Title"
+        - option "Topics"
+        - option "URLs"
+        - option "Videos"
+    - generic [ref=e33]: Component labels and type chips use Karl Help Center component names and link directly to their guidance pages.
+  - generic [ref=e34]:
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - generic [ref=e37]: Topic landing
+        - 'link "Topic: Healthy housing and vector control" [ref=e39] [cursor=pointer]':
+          - /url: "#hub"
+      - generic [ref=e40]:
+        - generic [ref=e41]: Topic and Information (16 pages)
+        - generic [ref=e42]:
+          - link "Healthy housing conditions" [ref=e43] [cursor=pointer]:
+            - /url: "#topic"
+          - link "Notice of violation" [ref=e44] [cursor=pointer]:
+            - /url: "#violationnotice"
+          - link "Rodents" [ref=e45] [cursor=pointer]:
+            - /url: "#rodents"
+          - link "Cockroaches" [ref=e46] [cursor=pointer]:
+            - /url: "#cockroaches"
+          - link "Bed bugs" [ref=e47] [cursor=pointer]:
+            - /url: "#bedbugs"
+          - link "Flies" [ref=e48] [cursor=pointer]:
+            - /url: "#flies"
+          - link "Mosquitoes" [ref=e49] [cursor=pointer]:
+            - /url: "#mosquitoes"
+          - link "Pigeons" [ref=e50] [cursor=pointer]:
+            - /url: "#pigeons"
+          - link "Fleas" [ref=e51] [cursor=pointer]:
+            - /url: "#fleas"
+          - link "Poison oak" [ref=e52] [cursor=pointer]:
+            - /url: "#poisonoak"
+          - link "Garbage / refuse" [ref=e53] [cursor=pointer]:
+            - /url: "#garbage"
+          - link "Animal waste" [ref=e54] [cursor=pointer]:
+            - /url: "#animalwaste"
+          - link "Overgrown vegetation" [ref=e55] [cursor=pointer]:
+            - /url: "#vegetation"
+          - link "Mold growth" [ref=e56] [cursor=pointer]:
+            - /url: "#mold"
+          - link "Excessive materials" [ref=e57] [cursor=pointer]:
+            - /url: "#excessive"
+          - link "Unsanitary conditions" [ref=e58] [cursor=pointer]:
+            - /url: "#unsanitary"
+      - generic [ref=e59]:
+        - generic [ref=e60]: Transaction
+        - link "Report a concern" [ref=e62] [cursor=pointer]:
+          - /url: "#report"
+      - generic [ref=e63]:
+        - generic [ref=e64]: Transaction, Data story, and Resource collection
+        - generic [ref=e65]:
+          - link "Search complaints" [ref=e66] [cursor=pointer]:
+            - /url: "#search"
+          - link "Complaint data" [ref=e67] [cursor=pointer]:
+            - /url: "#complaintsdata"
+          - link "Resources" [ref=e68] [cursor=pointer]:
+            - /url: "#resources"
+      - generic [ref=e69]:
+        - generic [ref=e70]: Transaction
+        - link "Pay fee" [ref=e72] [cursor=pointer]:
+          - /url: "#pay"
+      - generic [ref=e73]:
+        - generic [ref=e74]: Transaction
+        - generic [ref=e75]:
+          - link "Request mosquito survey" [ref=e76] [cursor=pointer]:
+            - /url: "#mqsurvey"
+          - link "Report a dead bird" [ref=e77] [cursor=pointer]:
+            - /url: "#deadbird"
+      - generic [ref=e78]:
+        - generic [ref=e79]: Transaction
+        - link "Request classroom visit" [ref=e81] [cursor=pointer]:
+          - /url: "#classroom"
+    - generic [ref=e82]:
+      - generic [ref=e83]:
+        - generic [ref=e84]: sf.gov/topics/healthy-housing-and-vector-control
+        - generic [ref=e85]: Topic
+        - link "Topic" [ref=e86] [cursor=pointer]:
+          - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/content-types/building-a-page-by-content-type/topic
+        - button "Show Karl build guide" [ref=e87] [cursor=pointer]
+      - generic [ref=e88]:
+        - generic [ref=e93]: sf.gov/topics/healthy-housing-and-vector-control
+        - generic [ref=e94]:
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - link "C1 — Body, Main body, Text and title" [ref=e97] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/body-main-body-text-and-title
+              - link "Body, Main body, Text and title" [ref=e98] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/body-main-body-text-and-title
+            - generic [ref=e99]: Healthy housing and vector control
+            - generic [ref=e100]: Information about housing health problems in San Francisco, pest and vector control, and how to report concerns.
+          - generic [ref=e101]:
+            - generic [ref=e102]:
+              - link "C2 — Body, Main body, Text and title" [ref=e103] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/body-main-body-text-and-title
+              - link "Body, Main body, Text and title" [ref=e104] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/body-main-body-text-and-title
+            - generic [ref=e105]:
+              - link "Report a pest or sanitation problem Learn what to do and how to report it Read guidance →" [ref=e106] [cursor=pointer]:
+                - /url: "#topic"
+                - generic [ref=e107]: Report a pest or sanitation problem
+                - generic [ref=e108]: Learn what to do and how to report it
+                - generic [ref=e109]: Read guidance →
+              - link "I received a notice of violation Understand what is required and how to respond Review next steps →" [ref=e110] [cursor=pointer]:
+                - /url: "#violationnotice"
+                - generic [ref=e111]: I received a notice of violation
+                - generic [ref=e112]: Understand what is required and how to respond
+                - generic [ref=e113]: Review next steps →
+              - link "I need to pay a fee Pay the annual inspection program fee Pay the fee →" [ref=e114] [cursor=pointer]:
+                - /url: "#pay"
+                - generic [ref=e115]: I need to pay a fee
+                - generic [ref=e116]: Pay the annual inspection program fee
+                - generic [ref=e117]: Pay the fee →
+              - link "Search complaints and violations Look up inspection records for a property View records →" [ref=e118] [cursor=pointer]:
+                - /url: "#search"
+                - generic [ref=e119]: Search complaints and violations
+                - generic [ref=e120]: Look up inspection records for a property
+                - generic [ref=e121]: View records →
+            - link "Report a dead bird Report dead birds to help track West Nile Virus in California Open reporting page →" [ref=e122] [cursor=pointer]:
+              - /url: "#deadbird"
+              - generic [ref=e123]: Report a dead bird
+              - generic [ref=e124]: Report dead birds to help track West Nile Virus in California
+              - generic [ref=e125]: Open reporting page →
+            - link "View complaint data dashboard See complaint volume, complaint types, and response trends Open dashboard →" [ref=e126] [cursor=pointer]:
+              - /url: "#complaintsdata"
+              - generic [ref=e127]: View complaint data dashboard
+              - generic [ref=e128]: See complaint volume, complaint types, and response trends
+              - generic [ref=e129]: Open dashboard →
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - link "C7 — Spotlight" [ref=e132] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/spotlight
+              - link "Spotlight" [ref=e133] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/spotlight
+            - generic [ref=e134]:
+              - generic [ref=e135]:
+                - generic [ref=e136]: Spotlight image placeholder
+                - generic [ref=e137]:
+                  - generic [ref=e138]: Seasonal spotlight
+                  - generic [ref=e139]: Check homes and shared areas for standing water this week to reduce mosquito breeding.
+              - generic [ref=e140]:
+                - generic [ref=e141]: Prevent mosquitoes this week
+                - link "See prevention checklist" [ref=e142] [cursor=pointer]:
+                  - /url: "#mosquitoes"
+          - generic [ref=e143]:
+            - generic [ref=e144]:
+              - link "C4 — Body, Main body, Text and title" [ref=e145] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/body-main-body-text-and-title
+              - link "Body, Main body, Text and title" [ref=e146] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/body-main-body-text-and-title
+            - generic [ref=e147]: The City responds to complaints involving pests, rodents, mosquitoes, mold, and sanitation issues in multi-unit housing. Learn about common housing conditions, prevention guidance, and requirements when violations are found.
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - link "C5 — Body, Main body, Text and title" [ref=e150] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/body-main-body-text-and-title
+              - link "Body, Main body, Text and title" [ref=e151] [cursor=pointer]:
+                - /url: https://sfdigitalservices.gitbook.io/karl-sf.gov-editor-help-center/using-karl-the-cms/components/body-main-body-text-and-title
+            - generic [ref=e152]:
+              - link "Building Inspection" [ref=e153] [cursor=pointer]:
+                - /url: https://sf.gov/departments/department-building-inspection
+              - link "Department of Public Health" [ref=e154] [cursor=pointer]:
+                - /url: https://sf.gov/departments/department-public-health
+              - link "311 - General requests" [ref=e155] [cursor=pointer]:
+                - /url: https://sf311.org
+      - generic [ref=e156]: "HHVC SF.gov Page Mockups · Topic: Healthy housing and vector control · Component labels shown in color"

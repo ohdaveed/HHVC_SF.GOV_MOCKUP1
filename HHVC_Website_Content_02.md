@@ -37,7 +37,7 @@ Keep furniture, mattresses, and bedding in place until you report the problem. M
 
 **Property Owner:**
 - Arrange professional treatment
-- Coordinate building-wide inspection
+- Have the whole building checked
 - Provide prep instructions
 
 ### What Happens Next
@@ -46,7 +46,7 @@ If activity is confirmed, treatment and preparation steps will be required. The 
 ### How Bed Bugs Spread
 - They move with luggage, clothing, and furniture.
 - They can spread room to room through shared walls and items.
-- Containment matters before treatment starts.
+- Keep them in one place before pest control arrives.
 
 ### What Treatment Usually Includes
 - Inspection of sleeping areas and nearby furniture
@@ -69,8 +69,6 @@ A: Yes. They can move through shared building spaces and items.
 
 ---
 
----
-
 ## Flies and Sanitation
 
 **URL:** sf.gov/flies-sanitation-building
@@ -82,7 +80,7 @@ Flies and sanitation
 Sec 581(b)(8)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Large numbers of flies indoors or near garbage
@@ -110,17 +108,15 @@ HHVC may inspect the property. If HHVC finds violations, the owner or tenant mus
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
 - Resources
 - Healthy housing conditions
-
----
 
 ---
 
@@ -181,8 +177,6 @@ A: Very small amounts can be enough for breeding, so remove even small pools of 
 
 ---
 
----
-
 ## Pigeons and Bird Waste
 
 **URL:** sf.gov/pigeons-bird-waste-building
@@ -194,7 +188,7 @@ Pigeons and bird waste
 Sec 581(b)(7)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Accumulated droppings on ledges or roofs
@@ -212,27 +206,25 @@ Learn how to identify this condition, what to do now, and how to report it if it
 
 **Property Owner:**
 - Remove droppings and nesting safely
-- Install lawful deterrence measures
+- Install safe bird deterrents like spikes or nets
 
 ### Key Message
-Do not sweep or disturb large accumulations of dry droppings without respiratory protection. Wet the area first or contact a professional.
+Do not sweep large piles of dry droppings. You could breathe in harmful dust. Wet the area first or hire a professional.
 
 ### What Happens Next
 HHVC may inspect the property. If HHVC finds violations, the owner or tenant must fix them.
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
 - Resources
 - Healthy housing conditions
-
----
 
 ---
 
@@ -247,7 +239,7 @@ Fleas
 Sec 581(b)(8)
 
 ### Subtitle
-Learn how to identify this condition, what to do now, and how to report it if it is not being corrected.
+Learn what this issue looks like, what to do now, and when to report it.
 
 ### Signs of a Problem
 - Bites on ankles and lower legs
@@ -275,10 +267,10 @@ HHVC may inspect the property. If HHVC finds violations, the owner or tenant mus
 
 ### FAQ
 **Q: Who is responsible for fixing this?**
-A: Owners must keep living conditions safe and fix any issues. Responsibility varies with the lease and context.
+A: Property owners must keep housing safe and healthy. Tenant and owner responsibilities can vary by lease and by the type of issue.
 
 **Q: Why does the problem keep coming back?**
-A: Recurring activity often means root causes remain. These include entry points, moisture, food sources, and slow treatment.
+A: The problem often returns when the root cause is not fixed, like leaks, food sources, clutter, or entry points.
 
 ### Related Links
 - Report a concern
@@ -286,3 +278,6 @@ A: Recurring activity often means root causes remain. These include entry points
 - Healthy housing conditions
 
 ---
+
+
+
